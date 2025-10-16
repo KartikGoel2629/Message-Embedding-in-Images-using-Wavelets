@@ -34,4 +34,16 @@ It extends the concept of wavelet-based color-to-gray conversion by introducing 
 - Robust to rounding and quantization errors
 - Objective evaluation using PSNR & SSIM
 
+## Original Image
 ![Balloon](https://github.com/user-attachments/assets/93ef284a-ad10-48da-a0c2-790fb52cd7ea)
+
+## Textured Gray Image
+<img width="603" height="386" alt="textured_gray" src="https://github.com/user-attachments/assets/979210db-d430-493f-8e26-a8d1aa5d6f42" />
+
+## Recovered Image
+<img width="595" height="385" alt="recovered" src="https://github.com/user-attachments/assets/ae705a1f-8a81-4ead-8f90-33d3161afd44" />
+
+## Mesage retrieved via a secure key
+<img width="541" height="48" alt="correct" src="https://github.com/user-attachments/assets/4f872b87-1301-44a4-bdaf-bebd4ac879f1" />
+
+
