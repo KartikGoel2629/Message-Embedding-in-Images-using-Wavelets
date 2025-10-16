@@ -5,7 +5,7 @@ It extends the concept of wavelet-based color-to-gray conversion by introducing 
 ## Objectives
 - Convert color images to textured grayscale using Discrete Wavelet Transform (DWT).
 - Embed secret messages securely within the grayscale image using key-based pixel selection.
-- Ensure reversible color and message recovery from the grayscale carrier.
+- Ensure reversible color and message recovery from the grayscale carrier by using a secure key.
 - Evaluate reconstruction fidelity using PSNR and SSIM metrics.
 
 ## Methodology
