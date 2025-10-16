@@ -43,7 +43,8 @@ It extends the concept of wavelet-based color-to-gray conversion by introducing 
 ## Recovered Image
 <img width="595" height="385" alt="recovered" src="https://github.com/user-attachments/assets/ae705a1f-8a81-4ead-8f90-33d3161afd44" />
 
-## Mesage retrieved via a secure key
+## Results
+### Mesage retrieved via a secure key
 <img width="541" height="48" alt="correct" src="https://github.com/user-attachments/assets/4f872b87-1301-44a4-bdaf-bebd4ac879f1" />
-
-
+PSNR=23.23
+SSIM=0.81
