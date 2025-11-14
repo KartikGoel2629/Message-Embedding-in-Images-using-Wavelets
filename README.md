@@ -38,10 +38,10 @@ It extends the concept of wavelet-based color-to-gray conversion by introducing 
 ![Balloon](https://github.com/user-attachments/assets/93ef284a-ad10-48da-a0c2-790fb52cd7ea)
 
 ## Textured Gray Image
-<img width="400" height="300" alt="textured_gray" src="https://github.com/user-attachments/assets/979210db-d430-493f-8e26-a8d1aa5d6f42" />
+<img width="450" height="300" alt="textured_gray" src="https://github.com/user-attachments/assets/979210db-d430-493f-8e26-a8d1aa5d6f42" />
 
 ## Recovered Image
-<img width="400" height="300" alt="recovered" src="https://github.com/user-attachments/assets/ae705a1f-8a81-4ead-8f90-33d3161afd44" />
+<img width="450" height="300" alt="recovered" src="https://github.com/user-attachments/assets/ae705a1f-8a81-4ead-8f90-33d3161afd44" />
 
 ## Results
 PSNR=23.23
